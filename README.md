@@ -10,7 +10,7 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 I have used some of common Tech **Vite**, **React** and **TailwindCSS**.
 
-## Features
+# Features
 
  **Beautiful Sections** - Includes hero, services, features, how to use, roadmap, pricing, footer, and header. 
  
@@ -20,7 +20,7 @@ I have used some of common Tech **Vite**, **React** and **TailwindCSS**.
  
  **Responsive** - Ensures seamless functionality and aesthetics across all devices and many more, including code architecture and reusability. 
 
-## Author
+# Author
 
  **Instagram** Click[Here](https://www.instagram.com/lhmzsoomro220?igsh=MWZtd2drbnVxazZsMw==) @lhmzsoomro220
  **Github** Click[Here](https://github.com/Shahziab-code) @Shahziab-code
